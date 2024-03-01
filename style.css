@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+}
+#box3{
+    display: flex;
+    gap: 10px;
+}
+#button{
+    background-color: black;
+    padding:  10px;
+    width: 20%;
+    color:whitesmoke;
+    margin-left: 20%;
+}
+#bttn{
+    background-color: black;
+    padding:5px ;
+    width: 20%;
+    color: white;
+    margin-left:20%;
+}
+#textblock{
+    color:black;
+    position: absolute;
+    bottom: 150px;
+    left: 20px;
+    margin-right:10%;
+    font-size: larger;
+}
+#btton{
+    background-color: white;
+    padding: 5px;
+    width: 20%;
+    color: black;
+    margin-left: 20%;
+    position: relative;
+    bottom: 2px;
+}
+#box2{
+    display: flex;
+    gap: 10px;
+}
+#buttn{
+    background-color: black;
+    padding: 5px;
+    width: 20%;
+    color: white;
+    margin-left: 1%;
+    position: relative;
+    bottom: 2px;
+}
+.Wanja{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.Naomi{
+    margin-left: 0;
+    padding-left: 0;
+}
